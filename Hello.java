@@ -12,5 +12,6 @@ public class Hello{
 		System.out.println("3 - 4 = " + Calculator.substrat(3,4));
 		System.out.println("3 * 4 = " + Calculator.multiply(3,4));
 		System.out.println("3 / 4 = " + Calculator.divide(3,4));
+		System.out.println("test ³¡");
 	}
 }
